@@ -16,20 +16,20 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : ❝✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼💘❀
+   * @author : ❝✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼💘❀ Tech Info
+   * @youtube : https://whatsapp.com/channel/0029Vab5auc35fM2N4oC4s3s
+   * @description : ❝✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼💘❀.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
+   * Created By ❝✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼💘❀ Tech Info.
    * © 2024 Suhail-Md.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let ❝✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼💘❀ = "❝✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼💘❀ MD Whatsapp bot md"
 
 const {updateProfilePicture,parsedJid  } = require("../lib")
 
