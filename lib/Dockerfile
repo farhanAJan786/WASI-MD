@@ -6,13 +6,13 @@
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧        #
 #=============================================#
 # 
-#    * @project_name : Suhail-Md
-#    * @author : @SuhailTechInfo
-#    * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-#    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
+#    * @project_name : ❝✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼💘❀
+#    * @author :❝✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼💘❀
+#    * @youtube : https://whatsapp.com/channel/0029Vab5auc35fM2N4oC4s3s
+#    * @description : ❝✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼💘❀.
 #    * @version 1.2.8
 # 
-# Don't change this [ /SuhailTechInfo/ ] name!
+# Don't change this [ /❝✧ᖘѧ𝙂ѧL✧Ĺѧ𝓡𝗞𝘼💘❀/ ] name!
 # Change from below link, else bot not works!
 
  
