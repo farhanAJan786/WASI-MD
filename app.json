@@ -1,7 +1,7 @@
 {
   "name": "Wasi-md",
   "description": "Hi there, I am wasi Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.",
-  "logo": "https://telegra.ph/file/da95ed969f943e4d61ca8.jpg",
+  "logo": "https://telegra.ph/file/3f48ce3fbc89b90ce5769.png",
   "keywords": ["whatsappbot", "wasi tech", "wasi Md bot", "wasi md", "wasi tech", "wasi Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/suhail/",
@@ -32,7 +32,7 @@
     "IMAGE": {
       "description": "Image for bot",
       "required" :true,    
-      "value": "https://telegra.ph/file/da95ed969f943e4d61ca8.jpg"
+      "value": "https://telegra.ph/file/3f48ce3fbc89b90ce5769.png"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
